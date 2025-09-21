@@ -1,6 +1,6 @@
 # Force Pagetemplate Item Plugin
 
-Selects Item as default page item when adding a page via the admin plugin.
+Selects Item as default page template when adding a page via the admin plugin.
 
 The **Force Pagetemplate Item** Plugin is an extension for [Grav CMS](https://github.com/getgrav/grav). Selects Item as default page template when adding a new page
 
