@@ -48,5 +48,4 @@ When adding a page via the admin panel, the default page template for select fro
 
 ## To Do
 
-- Make plugin available via gpm?  
-
+lots
